@@ -9,7 +9,7 @@
 ![Wrap a line or a block of text to a comment tag](img/scr003.gif "Wrap a line or a block of text to a comment tag")
 
 
-[Download it from the Visualstudio Marketplace](https://marketplace.visualstudio.com/items?itemName=trst.cfml-comment-tags)
+[Download it from the Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=trst.cfml-comment-tags)
 
 ___
 
