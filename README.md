@@ -1,12 +1,15 @@
-# cfml-comment-tags README
+# Coldfusion commentation
 
 ## Features
 
-### Use <kbd>Ctrl</kbd>+<kbd>Shift</kbd>+<kbd>M</kbd> to add/remove comment tags in your Coldfusion files. 
+#### Use <kbd>Ctrl</kbd>+<kbd>Shift</kbd>+<kbd>M</kbd> to add/remove comment tags in your Coldfusion files. 
 
 ![Add a new comment](img/scr001.gif "Add a new comment")
 
 ![Wrap a line or a block of text to a comment tag](img/scr003.gif "Wrap a line or a block of text to a comment tag")
+
+
+[Download it from the Visualstudio Marketplace](https://marketplace.visualstudio.com/items?itemName=trst.cfml-comment-tags)
 
 ___
 
