@@ -22,4 +22,4 @@ The following settings trigger the extension.
 
 These can be easily altered in the `packages.json` under `contributes.keybindings`.
 
-_<sub>&copy;trst</sub>_
+_<sub>--trst</sub>_
