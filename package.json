@@ -30,7 +30,7 @@
                 "command": "extension.cfml-comment-tags",
                 "key": "ctrl+shift+m",
                 "mac": "cmd+shift+m",
-                "when": "editorTextFocus && editorLangId == lang-cfml"
+                "when": "editorTextFocus && editorLangId == cfml"
             }
         ]
     },
